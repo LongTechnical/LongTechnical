@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning LLC SMPS
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me: Youkito1991@gmail.com
+- 📫 My youtube Channel: https://www.youtube.com/c/LongTechnical/videos
 
 <!---
 LongTechnical/LongTechnical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
